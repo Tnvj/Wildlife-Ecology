@@ -35,19 +35,6 @@ const AppTitle: FC = function () {
 					</div>
 				</div>
 			</section>
-			<div className="font-mono mt-14 md:mt-8 text-center p-8 md:p-32 leading-loose text-slate-400">
-				Please feel free to contribute to this project! Your inputs
-				can make it even better. If you have ideas or improvements,
-				feel free to drop a PR{" "}
-				<a
-					href="https://github.com/therealdhrxv/nptel/"
-					target="_blank"
-					className="text-blue-500"
-				>
-					<u> here.</u>
-				</a>{" "}
-				If this has helped you, please consider starring the repo.
-			</div>
 		</>
 	);
 };
