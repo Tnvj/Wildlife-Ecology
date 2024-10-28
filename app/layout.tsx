@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
 	title: "NPTEL Practice",
-	description: "It's a platform to practice Forests and their management's assignment questions",
+	description: "It's a platform to practice Wildlife Ecology assignment questions",
 };
 
 export default function RootLayout({
