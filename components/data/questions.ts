@@ -795,7 +795,7 @@ week4: [
 				"population structure",
 				"environmental fluctuation",
 		],
-		answer: "",
+		answer: "environmental fluctuation",
 	},
 ],		
 week9: [
